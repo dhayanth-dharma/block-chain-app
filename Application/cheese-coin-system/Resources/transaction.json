@@ -1,0 +1,12 @@
+{"amount":20.0,"public_transaction_id":12,
+    "time_stamp":1583286965000,
+    "senderList":
+            [{"amount":20.0,
+            "date_time":1585022945000,
+            "receiver_account_id":2,
+            "transaction_id":1,
+            "sender_account_id":1,
+            "sender_id":1}],
+    "date_time":1583294964000,
+    "receiver_account_id":2,
+    "transaction_id":1}

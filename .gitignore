@@ -1,0 +1,46 @@
+HELP.md
+
+
+**./nbproject/private/
+**./nbbuild/
+**./dist/
+**./nbdist/
+**./.nb-gradle/
+**./build/
+**/.vscode/
+/Application/BlockChainApplicationP2P/nbproject/private/
+/Application/cheese-coin-system/dist/
+
+
+target/
+!.application/**/mvn/wrapper/maven-wrapper.jar
+!.application/**/**/src/main/**
+!.application/**/**/src/test/**
+
+### STS ###
+.application/apt_generated
+.application/classpath
+.application/factorypath
+.application/project
+.application/settings
+.application/springBeans
+.application/sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+*./nbproject/private/
+*./nbbuild/
+*./dist/
+*./nbdist/
+*./.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+/Application/BlockChainApplicationP2P/nbproject/private/
+/Application/cheese-coin-system/dist/
